@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bg_targets",
+    "category": "blood_sugar",
+    "text": "Target blood sugar levels before meals for adults with diabetes are generally between 80-130 mg/dL (4.4-7.2 mmol/L). Post-meal targets (1-2 hours after eating) should be under 180 mg/dL (10.0 mmol/L)."
+  },
+  {
+    "id": "hypo_rule_15",
+    "category": "hypoglycemia",
+    "text": "If blood sugar drops below 70 mg/dL (3.9 mmol/L), follow the 15-15 rule: consume 15 grams of fast-acting carbs (e.g., 4 oz fruit juice or 3-4 glucose tablets), wait 15 minutes, and recheck blood sugar."
+  },
+  {
+    "id": "gi_overview",
+    "category": "nutrition",
+    "text": "Glycemic Index (GI) measures how rapidly a carbohydrate food turns into glucose. Low GI foods (<=55) digest slowly and cause gradual rises in blood sugar, while high GI foods (>=70) spike glucose rapidly."
+  },
+  {
+    "id": "exercise_effects",
+    "category": "fitness",
+    "text": "Physical activity increases insulin sensitivity, allowing muscles to absorb glucose even without extra insulin. Blood sugar can continue dropping up to 24 hours after moderate to high intensity workouts."
+  }
+]
